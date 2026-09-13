@@ -91,3 +91,4 @@ Zhang, H., Zhang, L., Lin, A., Xu, C., Li, Z., Liu, K., Liu, B., Ma, X.,
 Zhao, F., Jiang, H., Chen, C., Shen, H., Li, H., Mathews, D.H., Zhang, Y. &
 Huang, L. (2023) Algorithm for optimized mRNA design improves stability and
 immunogenicity. Nature 621:396-403.
+Code: [github.com/LinearDesignSoftware/LinearDesign](https://github.com/LinearDesignSoftware/LinearDesign)
