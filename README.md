@@ -1,6 +1,6 @@
 # python-biology-projects
 
-Python tools for parsing and analysing biological sequence data.
+Python projects on biological sequence data: fitness landscapes from deep mutational scanning, codon usage, and file parsing.
 
 This repository collects small, self-contained projects written while moving
 from wet-lab process engineering towards computational biology. Each project
