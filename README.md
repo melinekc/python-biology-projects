@@ -20,4 +20,4 @@ as such in their own README; others list their dependencies.
 
 ## Author
 
-Méline Kuric — molecular biologist and mRNA process engineer.
+Méline Kuric, molecular biologist and mRNA process engineer.
