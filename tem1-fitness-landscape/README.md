@@ -6,6 +6,20 @@ Biology and Evolution*). The dataset covers 18,081 codon-level variants
 across 13 ampicillin concentrations (0.25 to 1024 µg/mL), available on
 MaveDB as `urn:mavedb:00000070-a-3`.
 
+## Key results
+
+- The four known catalytic residues (Ser70, Lys73, Ser130, Glu166) are
+  among the five least tolerant positions.
+- Fitness scores and per-position tolerance correlate strongly with the
+  original publication's values (Spearman rho = 0.965, n = 5,450 amino
+  acid substitutions; rho = 0.932, n = 285 positions).
+- The choice of synonymous codon measurably affects fitness, especially
+  in the first 16 positions of the gene.
+  
+  ![Missense fitness of the 15 least and 15 most tolerant positions](heatmap_tolerance.png)
+
+*Median missense fitness (w) for the 15 least and 15 most tolerant positions of TEM-1. The four catalytic residues (Ser70, Lys73, Ser130, Glu166) are among the five least tolerant.*
+
 ## What this notebook does
 
 - Loads and validates the raw MaveDB count file
